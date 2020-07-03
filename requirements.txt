@@ -1,2 +1,4 @@
 genanki
 markdown2
+fire
+pydantic==1.5.1

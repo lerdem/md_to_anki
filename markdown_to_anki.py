@@ -1,5 +1,5 @@
 import os
-from typing import List, Optional
+from typing import List
 
 import re
 from markdown2 import markdown as md2
@@ -37,25 +37,26 @@ class ProcessMD:
 
 
 def get_model(model_id, deck_id, deck_name):
+    print(locals())
     my_model = genanki.Model(
-        1607392555,
-        'Simple Model',
+        model_id,
+        deck_name,
         fields=[{'name': 'Question'}, {'name': 'Answer'}],
         templates=[
             {
-                'name': 'Card 1',
+                'name': deck_name,
                 'qfmt': '{{Question}}',
                 'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}',
             }
         ],
     )
-    my_deck = genanki.Deck(2059400555, 'Политические термины')
+    my_deck = genanki.Deck(deck_id, deck_name)
     return my_model, my_deck
 
 
-deck_id = 2059400555
-model_id = 1607392555
-deck_name = 'Политические термины'
+# deck_id = 2059400555
+# model_id = 1607392555
+# deck_name = 'Политические термины'
 
 
 def main(source, deck_name, model_id, deck_id, output='anki_output_deck'):

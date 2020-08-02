@@ -14,3 +14,10 @@ Second question about some table)
 |---|--------|----| ----------|
 | 1 |  yes   | +  | any word  |
 | 2 |  no    | -  | any word 2|
+
+
+#### Question
+Test something with image
+
+#### Answer
+![foo](https://cs11.pikabu.ru/post_img/big/2018/09/30/5/1538289263179655789.jpg)

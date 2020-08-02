@@ -25,6 +25,7 @@
 
 [Источник](https://gufo.me/dict/bse/%D0%90%D0%BD%D1%82%D0%B8%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%B7%D0%BC)
 
+[![Arrival-in-Utopia-Diezel-Punk1.jpg](https://i.postimg.cc/RVknVZVx/Arrival-in-Utopia-Diezel-Punk1.jpg)](https://postimg.cc/9rBfLV7L)
 
 #### Question
 Левые
@@ -50,6 +51,8 @@
 
 [Источник](https://gufo.me/dict/bse/%D0%91%D1%83%D1%80%D0%B6%D1%83%D0%B0%D0%B7%D0%B8%D1%8F)
 
+![image](https://ktonanovenkogo.ru/image/burzhuaziia-sigara.jpg)
+
 #### Question
 Прибавочная стоимость
 
@@ -62,6 +65,8 @@
 
 [Источник](https://gufo.me/dict/bse/%D0%9F%D1%80%D0%B8%D0%B1%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C)
 
+![image](https://cf.ppt-online.org/files/slide/d/D32vyLE9YPXSRJAdaKBMoH1kTeVtcZiszGq6UQ/slide-13.jpg)
+
 #### Question
 Заработная плата
 
@@ -72,6 +77,9 @@
 прибавочную стоимость (См. Прибавочная стоимость), присваиваемую классом капиталистов.
 
 [Источник](https://gufo.me/dict/bse/%D0%97%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B0%D1%82%D0%B0)
+
+![image](https://s14.stc.all.kpcdn.net/share/i/12/10942229/inx960x640.jpg)
+
 
 #### Question
 Правые
@@ -98,6 +106,7 @@
 
 [Источник](https://gufo.me/dict/bse/%D0%9F%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%80%D0%B8%D0%B0%D1%82)
 
+![image](https://www.moma.org/media/W1siZiIsIjQ5MTIiXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAxMjgweDk2MFx1MDAzZSJdXQ.jpg?sha=a9fa3042cd270a41)
 
 #### Question
 Белые
@@ -118,6 +127,8 @@
 
 [Источник](https://gufo.me/dict/history_encyclopedia/%D0%9A%D0%A3%D0%9B%D0%90%D0%A7%D0%95%D0%A1%D0%A2%D0%92%D0%9E)
 
+![image](https://cs9.pikabu.ru/post_img/2017/09/11/6/1505121007114855441.jpg)
+
 #### Question
 Коллективизация
 #### Answer
@@ -132,6 +143,7 @@
 
 [Источник](https://gufo.me/dict/law/%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
 
+![image](https://img.znak.com/434705.jpg)
 
 #### Question
 Империализм
@@ -144,6 +156,8 @@
 это — капитализм монополистический, паразитический, или загнивающий, и умирающий.
 
 [Источник](https://gufo.me/dict/history_encyclopedia/%D0%98%D0%9C%D0%9F%D0%95%D0%A0%D0%98%D0%90%D0%9B%D0%98%D0%97%D0%9C)
+
+![image](http://roape.net/site/wp-content/uploads/2018/05/English_imperialism_octopus.jpg)
 
 #### Question
 Пролетариат
@@ -209,12 +223,11 @@
 Марксизм не есть только теория социализма, это есть цельное мировоззрение, философская система, из которой логически
 вытекает пролетарский социализм Маркса.
 
-Цитаты:
-
-- «Эта философская система называется диалектическим материализмом.» Сталин.
-- «Марксизм есть научное выражение коренных интересов рабочего класса.» Сталин.
-
 [Источник](https://gufo.me/dict/ushakov/%D0%BC%D0%B0%D1%80%D0%BA%D1%81%D0%B8%D0%B7%D0%BC)
+
+![image](http://2.bp.blogspot.com/-aqPtltCguMM/VIm7OFyP_bI/AAAAAAAAFRs/Qxw0ZG15y6Q/s1600/%D0%BA%D0%B0%D1%80%D0%BB%D0%BC%D0%B0%D1%80%D0%BA%D1%83.jpg)
+
+
 #### Question
 Олигархия
 
@@ -228,6 +241,9 @@
 обозначая такую форму государственного устройства, которая возникает в результате вырождения аристократии.
 
 [Источник](https://gufo.me/dict/bse/%D0%9E%D0%BB%D0%B8%D0%B3%D0%B0%D1%80%D1%85%D0%B8%D1%8F)
+
+![image](https://filosoff.org/oligarchy/wp-content/uploads/sites/301/2017/07/oligarhija.png)
+
 
 #### Question
 Аристократия
@@ -246,6 +262,9 @@
 
 [Источник](https://gufo.me/dict/bse/%D0%90%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F)
 
+![image](https://oznachaet.ru/wp-content/uploads/2019/01/aristokrat_3.jpg)
+
+
 #### Question
 Шовинизм
 
@@ -256,6 +275,10 @@
 Словом «Ш.» стали обозначать различные проявления националистич. экстремизма.
 
 [Источник](https://dic.academic.ru/dic.nsf/enc_philosophy/4980/%D0%A8%D0%9E%D0%92%D0%98%D0%9D%D0%98%D0%97%D0%9C)
+
+![image](https://v-chem-raznica.ru/images/content/2018/02/raznica-mezhdu-patriotizmom-shovinizmom-i-natsionalizmom.jpg)
+
+[Разница между патриотизмом, шовинизмом и национализмом](https://v-chem-raznica.ru/raznica-mezhdu-patriotizmom-shovinizmom-i-natsionalizmom)
 
 #### Question
 Нацизм
@@ -271,6 +294,11 @@
 В ряде своих существенных черт сходен с фашизмом.
 
 [Источник](https://dic.academic.ru/dic.nsf/lower/16369/%D0%9D%D0%90%D0%A6%D0%98%D0%97%D0%9C)
+
+![image](http://bvahan.com/art/drevo_1.jpg)
+
+[НАЦИЗМ И ГЕНОЦИД - РОДСТВЕННЫЕ И ВЗАИМОСВЯЗАННЫЕ ПОНЯТИЯ ](http://bvahan.com/art/drevo1.asp)
+
 
 #### Question
 Фашизм
@@ -291,17 +319,18 @@
 Внеш. политика Ф.— политика империалистич. захватов.
 
 Общность черт, присущих Ф. как политич. течению, не исключает существования различных его форм.
-
-Так, преобладание милитаристских сил характерно для воен. фаш. режимов.
+так, преобладание милитаристских сил характерно для воен. фаш. режимов.
 
 [Источник](https://dic.academic.ru/dic.nsf/enc_philosophy/4908/%D0%A4%D0%90%D0%A8%D0%98%D0%97%D0%9C)
+
+[![scale-1200.png](https://i.postimg.cc/gkXYJynn/scale-1200.png)](https://postimg.cc/QHDLYTg3)
 
 
 #### Question
 ОППОРТУНИЗМ
 
 #### Answer
-такой образ мыслей или настроение, когда для достижения к.-н. идеальных целей рекомендуется не борьба со злом,
+Образ мыслей или настроение, когда для достижения к.-н. идеальных целей рекомендуется не борьба со злом,
 а постепенное, медленное улучшение путем различных уступок настоящему и согласования своих желаний с обстоятельствами.
 
 В конце концов такая практика приводит обыкновенно к тому, что конечные цели, искажаясь от постоянных приспособлений
@@ -309,3 +338,7 @@
 заботы об исполнении ближайших задач и достижении сомнительных улучшений.
 
 [Источник](https://dic.academic.ru/dic.nsf/dic_fwords/24612/%D0%9E%D0%9F%D0%9F%D0%9E%D0%A0%D0%A2%D0%A3%D0%9D%D0%98%D0%97%D0%9C)
+
+[![112566.jpg](https://i.postimg.cc/8PHqTjbj/112566.jpg)](https://postimg.cc/7f5BVPdk)
+
+[Оппортунизм - это приспособление, без желания изменить](https://newsland.com/user/4297761724/content/opportunizm-eto-prisposoblenie-bez-zhelaniia-izmenit/4434376)

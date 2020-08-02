@@ -21,3 +21,12 @@ ls anki_output/anki_output_deck.apkg
 ```
 
 After creation import anki_output_deck.apkg into you anki [app](https://f-droid.org/en/packages/com.ichi2.anki/)
+
+
+#### Rule for card creation
+ * Keep decks simple (1 per exam) and use tags for systems, mnemonics etc
+ * Understand first then memorize so you can apply what you learn on test day (makes learning quicker)
+ * Lay foundations first (80/20) focus on highest yield information big picture basics before details
+ * Minimum information principal (don’t make complex cards with sub items, make a bunch of simple cards for each sub item)
+ * Cloze Deletions are AmAzInG! (Helps with step 4)
+ * Images Photos and Figures (better than a bunch of text) even an “unrelated” image that makes you think of the topic — image occlusion enchanted
